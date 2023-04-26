@@ -1,16 +1,16 @@
 # PASSO A PASSO
 
-**1 - Passo de entre na pasta do projeto**
+**1 - Entrar na pasta do projeto**
 ```
 teste_vr-main
 ```
-**2 - Passo instale as dependências**
+**2 - Instale as dependências**
 ```
 bundle install
 ```
 ** Precisa instalar a gem, comando "gem install bundle".
 
-**3- Passo rode o nosso projeto, abrar o terminal em tests e envie o comando abaixo:**
+**3- Abra o terminal em tests e envie o comando abaixo:**
 
 ```
 bundle exec cucumber
